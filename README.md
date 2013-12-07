@@ -38,7 +38,7 @@
 ####开发者博客
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
-|-----|-----|------|------|-----|
+|-----|-----|------|------|-----|-----|------|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行 旅游|
 |大猫| http://luolei.org|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
