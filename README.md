@@ -19,12 +19,17 @@
 |[ria之家](http://www.36ria.com//)|★★★★☆|★★★★☆|淘宝 @明河|
 
 #####企业官方博客
-|名称 |公司 | 部门|活跃度 | 简介|
-| ----- | ----- | ------ | ------ |-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究，重点产品包括QQ、Qzone、朋友网、QQ会员、QQ秀、腾讯微云、QQ提醒、腾讯开放平台、广点通及相关移动终端应用等。|
-| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆|
-| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|
-
+|名称 |公司 | 部门|活跃度 | 简介|微博|
+| ----- | ----- | ------ | ------ |-----|-----|
+| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
+| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
+| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
+| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
+| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
+| [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
 
 
 
