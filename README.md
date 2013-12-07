@@ -104,13 +104,15 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ##书籍
 
-####基础入门
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
 | Web标准设计 | 刘杰（嗷嗷） | RMB 60.00  | 清华大学出版社 |基础入门|
 | [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|适合入门|
 |高性能网站建设指南|Steve Souders |RMB 35.00|电子工业出版社|#|
+|[Web站点优化 : Web站点优化](http://book.douban.com/subject/4124141/)|金  |RMB 55.00|#|#|
+|[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
+|[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|作者很牛|
 
 
 
