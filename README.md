@@ -44,6 +44,7 @@
 |[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
 |[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
 |[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
+|[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 
 ####开发者博客
 
@@ -53,10 +54,12 @@
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
+|阮一峰| http://www.ruanyifeng.com/blog/|[#](http://weibo.com/berg)|#|[#]()|#| 大牛|
+|老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|#| 资深码农|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行|
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发 知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
-| C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX玩家、交互设计师、曾经的视觉与前端、博主|
+| C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
 | 张鑫旭 |hangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
 | kejun |http://hikejun.com/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
