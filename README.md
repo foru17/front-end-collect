@@ -6,6 +6,15 @@
 ====
 
 
+####聚合&&周报
+|名称 |订阅地址 | 介绍 | 
+| ----- | ----- | ------ |
+|Html5 Weekly|http://html5weekly.com/| |
+|CSS Weekly|http://css-weekly.com/| |
+|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
+|Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
+|Sidebar|http://sidebar.io/|每天推送5条设计相关|
+|The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 
 ####专业博客
 
@@ -18,6 +27,7 @@
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
 |[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
+|[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 
 
 
@@ -25,13 +35,14 @@
 ######国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
-|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| Chris Coyier |超高质量Html,css,js,设计资讯|
+|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| Chris Coyier |业界权威|
 |[Tuts](http://hub.tutsplus.com/)|★★★★★|★★★★★| - |国外知名开发者网站|
 |[DeveloperDrive](http://www.developerdrive.com/)|★★★★★|★★★★★| - |优质前端技术信息|
 |[CSS-TRICKS](http://www.36ria.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
+|[Web Designer Wall](http://webdesignerwall.com/)|★★★★★|★★★★★| Nick La.|优质 Html5,CSS3等教程|
 |[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
 |[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
-|[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不介绍了|
+|[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
 
 ####开发者博客
 
