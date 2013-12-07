@@ -18,18 +18,6 @@
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|
 |[ria之家](http://www.36ria.com//)|★★★★☆|★★★★☆|淘宝 @明河|
 
-#####企业官方博客
-|名称 |公司 | 部门|活跃度 | 简介|微博|
-| ----- | ----- | ------ | ------ |-----|-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
-| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
-| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
-| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
-| [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
 
 
 
@@ -44,9 +32,15 @@
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
-|cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行 旅游|
-|大猫| http://luolei.org|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发|
+|cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行|
+|大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发 知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
+| C7210 |http://beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX玩家、交互设计师、曾经的视觉与前端、博主|
+| 张鑫旭 |http://www.zhangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
+| kejun |http://hikejun.com/blog/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
+| lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
+| smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
+| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
 
 
 
@@ -59,6 +53,19 @@
 
 
 
+
+#####企业官方博客
+|名称 |公司 | 部门|活跃度 | 简介|微博|
+| ----- | ----- | ------ | ------ |-----|-----|
+| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
+| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
+| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
+| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
+| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
+| [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
 
 
 ##书籍
