@@ -35,7 +35,7 @@
 ######国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
-|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| Chris Coyier |业界权威|
+|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
 |[Tuts](http://hub.tutsplus.com/)|★★★★★|★★★★★| - |国外知名开发者网站|
 |[DeveloperDrive](http://www.developerdrive.com/)|★★★★★|★★★★★| - |优质前端技术信息|
 |[CSS-TRICKS](http://www.36ria.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
@@ -55,7 +55,7 @@
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX玩家、交互设计师、曾经的视觉与前端、博主|
 | 张鑫旭 |hangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
-| kejun |http://hikejun.com/blog/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
+| kejun |http://hikejun.com/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
