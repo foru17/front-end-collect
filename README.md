@@ -15,6 +15,7 @@
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
 |Sidebar|http://sidebar.io/|每天推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
+|Design News|https://news.layervault.com/|F2类资讯聚合|
 
 ####专业博客
 
@@ -46,7 +47,9 @@
 
 ####开发者博客
 
-国内开发者
+微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
+
+######国内开发者
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
@@ -61,10 +64,13 @@
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
 
 
+####一些社区
 
-
-
-
+|名称 |地址 |介绍 |
+|-----|-----|------|
+|V2EX|http://v2ex.com/|小众活跃社区|
+|Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
+|Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 
 
 
@@ -97,8 +103,8 @@
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
 | Web标准设计 | 刘杰（嗷嗷） | RMB 60.00  | 清华大学出版社 |基础入门|
-| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|基础入门|
-|高性能网站建设指南|Steve Souders |RMB 35.00|电子工业出版社|绍了网站性能问题的现状、产生的原因，以及改善或解决性能问题的原则、技术技巧和最佳实践。|
+| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|适合入门|
+|高性能网站建设指南|Steve Souders |RMB 35.00|电子工业出版社|#|
 
 
 
