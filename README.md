@@ -12,11 +12,12 @@
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
 
 ######中文博客
-|名称 |活跃度 | 原创度 | 维护者|
-| ----- | ----- | ------ |----- |
-|[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |
-|[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|
-|[ria之家](http://www.36ria.com//)|★★★★☆|★★★★☆|淘宝 @明河|
+|名称 |活跃度 | 原创度 | 维护者|其他|
+| ----- | ----- | ------ |----- |-----|
+|[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
+|[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
+|[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
+|[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 
 
 
@@ -24,23 +25,32 @@
 ######国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
+|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| Chris Coyier |超高质量Html,css,js,设计资讯|
 |[Tuts](http://hub.tutsplus.com/)|★★★★★|★★★★★| - |国外知名开发者网站|
-|[CSS-TRICKS](http://www.36ria.com//)|★★★★★|★★★★★| Chris Coyier |大神|
-
+|[DeveloperDrive](http://www.developerdrive.com/)|★★★★★|★★★★★| - |优质前端技术信息|
+|[CSS-TRICKS](http://www.36ria.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
+|[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
+|[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
+|[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不介绍了|
 
 ####开发者博客
+
+国内开发者
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行|
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发 知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
-| C7210 |http://beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX玩家、交互设计师、曾经的视觉与前端、博主|
-| 张鑫旭 |http://www.zhangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
+| C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX玩家、交互设计师、曾经的视觉与前端、博主|
+| 张鑫旭 |hangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
 | kejun |http://hikejun.com/blog/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
+
+
+
 
 
 
@@ -59,6 +69,7 @@
 | ----- | ----- | ------ | ------ |-----|-----|
 | [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
 | [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
+| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 |   SNG| ★★★★☆|来自于社交网络事业群，主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[#](http://weibo.com/aliued)|
 | [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
 | [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
