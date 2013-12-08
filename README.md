@@ -35,6 +35,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
+|[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
 |[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
 |[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
