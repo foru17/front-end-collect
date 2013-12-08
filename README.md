@@ -9,13 +9,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ====
 
 
-####聚合&&周报
+####聚合&&周报订阅
 |名称 |订阅地址 | 介绍 | 
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| |
 |CSS Weekly|http://css-weekly.com/| |
 |RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
+|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
 |Sidebar|http://sidebar.io/|每天推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
@@ -29,12 +30,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
+|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
 |[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
-|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
-
 
 
 
@@ -51,6 +51,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
+
 ####开发者博客
 
 微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
@@ -82,13 +83,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-
-
-
-
-
-
-
 #####企业官方博客
 |名称 |公司 | 部门|活跃度 | 简介|微博|
 | ----- | ----- | ------ | ------ |-----|-----|
@@ -99,8 +93,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
 | [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
 | [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
+| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
+| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
 
 
@@ -109,12 +103,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
-| Web标准设计 | 刘杰（嗷嗷） | RMB 60.00  | 清华大学出版社 |基础入门|
-| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|适合入门|
-|高性能网站建设指南|Steve Souders |RMB 35.00|电子工业出版社|#|
+| [Web标准设计](http://book.douban.com/subject/3327829/) | 刘杰（嗷嗷） | RMB 60.00  | 清华大学出版社 |基础入门|
+| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|适合入门，了解前端全局|
+|[高性能网站建设指南:前端工程师技能精髓](http://book.douban.com/subject/3132277/)|Steve Souders |RMB 35.00|电子工业出版社|能从原理层理解各种方法|
+|[高性能网站建设指南:Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)|Steve Souders |RMB 49.80|电子工业出版社|#|
 |[Web站点优化 : Web站点优化](http://book.douban.com/subject/4124141/)|金  |RMB 55.00|#|#|
 |[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
+|[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 
 
 
