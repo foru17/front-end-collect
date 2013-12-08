@@ -98,6 +98,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
+|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|#|#|墨筹网|少年才俊|
+|qiqiboy|#|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
 
 ####一些社区
