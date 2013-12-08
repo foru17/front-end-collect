@@ -50,7 +50,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
 |[Tuts](http://hub.tutsplus.com/)|★★★★★|★★★★★| - |国外知名开发者网站|
 |[DeveloperDrive](http://www.developerdrive.com/)|★★★★★|★★★★★| - |优质前端技术信息|
-|[CSS-TRICKS](http://www.36ria.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
+|[CSS-TRICKS](http://css-tricks.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
 |[Web Designer Wall](http://webdesignerwall.com/)|★★★★★|★★★★★| Nick La.|优质 Html5,CSS3等教程|
 |[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
 |[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
