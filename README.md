@@ -33,6 +33,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
+|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|#|
 
 
 
@@ -49,7 +50,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
 |[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
-
+|[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 ####开发者博客
 
 微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
