@@ -145,10 +145,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
+##关于
+======
 
-
-
-
-
-
-
+本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
