@@ -66,7 +66,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[@TheFrontEnd](http://weibo.com/javascriptdev)|#|JavaScript技术资讯、新闻、教程、深度文章。|
 |[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
 |[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
-
+|[@developerWorks](http://weibo.com/developerworks)|#|#|
 
 
 ####开发者博客
@@ -87,17 +87,18 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
 |朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|#|#|阿里巴巴#|《深入浅出Node.js》作者,大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://twitter.com/byvoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
-|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|#|原支付宝|Node.js|
+|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
+|勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
 | 张鑫旭 |[张鑫旭博客](hangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
 | kejun |http://hikejun.com/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
-| lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
+| lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
-
+|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
 
 ####一些社区
 
@@ -115,12 +116,12 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 |名称 |公司 | 部门|活跃度 | 简介|微博|
 | ----- | ----- | ------ | ------ |-----|-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|
-| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
+| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|#|
+| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |#|
 | [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 |   SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[#](http://weibo.com/aliued)|
-| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
+| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |#|
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
+| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
 | [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
