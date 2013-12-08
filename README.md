@@ -32,8 +32,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
-|[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
-|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|#|
+|[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
+|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
 
 
 
@@ -65,6 +65,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发 知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
+| 张鑫旭 |hangxinxu.com/wordpress/|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
 | kejun |http://hikejun.com/|[#](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|前端开发|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
