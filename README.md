@@ -60,9 +60,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 
 #####活跃微博
-|ID |公司 | 原创度 |
+|ID |公司 | 简介 |
 |-----|------|------|
-|
+|[@w3c中国](http://weibo.com/w3cchina)|#|万维网联盟中国办事处官方微博|
+|[@TheFrontEnd](http://weibo.com/javascriptdev)|#|JavaScript技术资讯、新闻、教程、深度文章。|
+|[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
+|[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
+
+
 
 ####开发者博客
 
@@ -80,7 +85,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |寒冬winter|#|[@寒冬winter](http://weibo.com/wintercn)|#|#|#|#|
 |左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|#|#|#|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
-|BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://twitter.com/byvoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者 大牛|
+|朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|#|#|阿里巴巴#|《深入浅出Node.js》作者,大牛|
+|BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://twitter.com/byvoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
+|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|#|原支付宝|Node.js|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
@@ -102,16 +109,15 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Code Wall|https://coderwall.com/|国外技术社区|
 
 
-
 #####企业官方博客
 
 在开头我的 Feedly 订阅 opml 文件里比较全面。
 
 |名称 |公司 | 部门|活跃度 | 简介|微博|
 | ----- | ----- | ------ | ------ |-----|-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
+| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|
 | [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |
-| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 |   SNG| ★★★★☆|来自于社交网络事业群，主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[#](http://weibo.com/aliued)|
+| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 |   SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[#](http://weibo.com/aliued)|
 | [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |微博|
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
 | [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |
@@ -122,7 +128,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 ##书籍
-
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
