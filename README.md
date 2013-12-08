@@ -40,6 +40,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
+|[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
 
 
 
@@ -53,9 +54,15 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Web Designer Wall](http://webdesignerwall.com/)|★★★★★|★★★★★| Nick La.|优质 Html5,CSS3等教程|
 |[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
 |[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
+|[Codrops](http://tympanus.net/codrops/)|★★★★★|★★★★★| #|设计、交互、CSS|
 |[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
+
+#####活跃微博
+|ID |公司 | 原创度 |
+|-----|------|------|
+|
 
 ####开发者博客
 
@@ -69,6 +76,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |-----|-----|------|------|-----|-----|------|
 |阮一峰| http://www.ruanyifeng.com/blog/|[#](http://weibo.com/berg)|#|[#]()|#| 大牛|
 |老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|#| 资深码农|
+|玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
+|寒冬winter|#|[@寒冬winter](http://weibo.com/wintercn)|#|#|#|#|
+|左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|#|#|#|
 |cnberg| http://cnberg.com|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 前端开发 骑行|
 |大猫| http://big.cat|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |前端开发 知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
