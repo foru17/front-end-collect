@@ -24,6 +24,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
 
+
+
 ####专业博客
 
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
@@ -61,6 +63,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ######国内开发者
 
+国内开发者一块欢迎大家 `Fork`提交推荐，最好能推荐一些在前端界较活跃的的开发者。
+
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
 |阮一峰| http://www.ruanyifeng.com/blog/|[#](http://weibo.com/berg)|#|[#]()|#| 大牛|
@@ -83,10 +87,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |V2EX|http://v2ex.com/|小众活跃社区|
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
+|Code Wall|https://coderwall.com/|国外技术社区|
 
 
 
 #####企业官方博客
+
+在开头我的 Feedly 订阅 opml 文件里比较全面。
+
 |名称 |公司 | 部门|活跃度 | 简介|微博|
 | ----- | ----- | ------ | ------ |-----|-----|
 | [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|腾讯核心设计专业团队，负责腾讯的社交网络相关产品的用户体验设计与研究。|
