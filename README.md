@@ -35,6 +35,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
+|[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
 |[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
 |[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
@@ -82,6 +83,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |阮一峰|[阮一峰博客](http://www.ruanyifeng.com/blog/)|[#](http://weibo.com/berg)|#|[#]()|#| 大牛|
 |老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|#| 资深码农|
 |玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
+| kejun |http://hikejun.com/|[@kejunz](http://weibo.com/kejunz)|[@kejunz](https://twitter.com/kejunz)|[@kejunz](https://github.com/kejun)| 豆瓣|前端大神|
 |寒冬winter|#|[@寒冬winter](http://weibo.com/wintercn)|#|#|#|#|
 |左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|#|#|#|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
@@ -93,8 +95,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |大猫| http://bigc.at|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
+<<<<<<< HEAD
 | 张鑫旭 |[张鑫旭博客](hangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| #|前端开发|
 | kejun |http://hikejun.com/|[#](http://weibo.com/kejun)|[#](http://twittercom/kejun)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
+| 张鑫旭 |[张鑫旭博客](hangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
+>>>>>>> 384390b99b320f4788b30823cdcd85db4f0e69cc
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
