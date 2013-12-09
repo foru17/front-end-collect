@@ -88,6 +88,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|#|#|#|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
 |朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|#|#|阿里巴巴#|《深入浅出Node.js》作者,大牛|
+|Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://twitter.com/byvoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
 |郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
 |勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
@@ -95,11 +96,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |大猫| http://bigc.at|[@13igcat](http://weibo.com/daemao)|@13igcat|[@13igcat]()|腾讯 |知乎|
 | hzlzh |https://zlz.im|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://twittercom/hzlzh)|[@hzlzh](http://github.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
-<<<<<<< HEAD
-| 张鑫旭 |[张鑫旭博客](hangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| #|前端开发|
 | kejun |http://hikejun.com/|[#](http://weibo.com/kejun)|[#](http://twittercom/kejun)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | 张鑫旭 |[张鑫旭博客](hangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
->>>>>>> 384390b99b320f4788b30823cdcd85db4f0e69cc
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
