@@ -20,7 +20,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
 |RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
 |Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
-|Sidebar|http://sidebar.io/|每天推送5条设计相关|
+|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
