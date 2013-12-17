@@ -23,6 +23,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Sidebar|http://sidebar.io/|每天推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
+|HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
 
 
 
