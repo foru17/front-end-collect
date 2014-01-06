@@ -112,7 +112,23 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |叶小钗|[叶小钗](http://www.cnblogs.com/yexiaochai)|#|#|#|#|前端开发|
 |聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|#|#|#|百度移动云|前端开发|
 |当耐特|[iamzhanglei](http://www.cnblogs.com/iamzhanglei/)|#|#|#|#|HTML5实验室作者|
-|当耐特|[iamzhanglei](http://www.otakustay.com)|#|#|#|#|HTML5实验室作者|
+|教主|[_frank](http://www.cnblogs.com/_franky)|#|#|#|#|又一牛|
+|typeof|[typeof](http://typeof.net/)|#|#|#|#|又一牛|
+|Gray Zhang|[Gray Zhang](http://www.cnblogs.com/GrayZhang)|#|#|#|#|百度一牛|
+|李松峰|[为之漫笔](http://www.cn-cuckoo.com)|#|#|#|#|高程2等书的译者|
+|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|百姓网一牛|
+|vilic|[vilic](http://vilic.info/)|#|#|#|#|年轻一牛|
+|彬Go|[彬Go](http://blog.bingo929.com/)|#|#|#|#|人人网一牛|
+|PuterJam|[PuterJam's Blog](http://www.pjhome.net)|#|#|#|#|腾讯一牛|
+|css森林|[cssforest](http://www.cssforest.org)|#|#|#|#|前端博客|
+|99css|[99css](http://www.99css.com/)|[@ytzong](http://weibo.com/ytzong)|#|#|#|腾讯一牛|
+|秦歌|[Kaven](http://dancewithnet.com/)|#|[@kavenyan](http://twitter.com/kavenyan)|#|#|js语言精粹译者|
+|linxz|[linxz](http://www.linxz.de/)|#|#|#|#|css那些事儿的作者|
+|米随随|[米随随](http://s5s5.me/)|#|#|#|#|腾讯ISUX 一牛|
+|飘飘|[飘飘](http://pufen.net/)|#|#|#|#|腾讯一牛|
+|Along|[Along's Blog](http://jinlong.github.io/)|[@newwave](http://weibo.com/newwave)|#|#|#|Opera 欧朋一牛|
+|安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|腾讯一牛|
+
 
 ####一些社区
 
