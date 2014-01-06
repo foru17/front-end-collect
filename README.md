@@ -1,7 +1,7 @@
 前端收集
 =================
 
-在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新。
+在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新。以下各排名不分先后顺序。
 
 自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
 https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
@@ -105,6 +105,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
 |qiqiboy|#|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
+|周爱民|[aimingoo专栏](http://blog.csdn.net/aimingoo/)|#|#|#|支付宝|JavaScript语言精髓与编程实践作者|
+|hax|[hax的技术部落格](http://hax.iteye.com/)|#|#|#|#|前端大牛|
+|三生石上|[三生石上](http://www.cnblogs.com/sanshi)|#|#|#|#|js秘密花园译者|
+|司徒正美|[Ruby's Louvre](http://www.cnblogs.com/rubylouvre)|#|#|#|#|前端开发|
+|叶小钗|[叶小钗](http://www.cnblogs.com/yexiaochai)|#|#|#|#|前端开发|
+|聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|#|#|#|百度移动云|前端开发|
+|当耐特|[iamzhanglei](http://www.cnblogs.com/iamzhanglei/)|#|#|#|#|HTML5实验室作者|
+|当耐特|[iamzhanglei](http://www.otakustay.com)|#|#|#|#|HTML5实验室作者|
 
 ####一些社区
 
