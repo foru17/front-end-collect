@@ -24,6 +24,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
+|中文推送|||
+|SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 
 
 
@@ -43,6 +45,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
+
 
 
 
@@ -104,7 +107,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
 |LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
-|qiqiboy|#|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
+|qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
 
 ####一些社区
