@@ -172,8 +172,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 
 ##qq交流群
-======
 1. JS-前端开发 159758989
+
 群交流约定：
 
 禁止闲聊，鼓励提问与资源分享。
