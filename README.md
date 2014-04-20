@@ -171,6 +171,16 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 
+##qq交流群
+======
+1. JS-前端开发 159758989
+群交流约定：
+禁止闲聊，鼓励提问与资源分享。
+禁止发无意义的超过文本行距的表情。
+着重于话题质量以问题驱动，有问题有话题，无问题可以适当交流职业困惑或技术相关行业趣闻方面。
+比如，
+三十岁之后如何技术人员如何转型，这是职业问题。
+weibo上市，openssl 漏洞这些是技术行业趣闻。
 
 
 ##关于
