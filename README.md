@@ -156,6 +156,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
+| [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/) | 携程网 |   UED| ★★★☆☆|携程UED,携程前端开发团队,携程前端招聘,携程旅行网前端,携程前端,携程技术团队,携程技术研发中心,UED,Javascript,重构,ux|#|
 
 
 ##书籍
