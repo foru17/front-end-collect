@@ -173,7 +173,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
-|[JavaScript语言精髓](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
+|[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
 
 ##QQ交流群
 1. JS-前端开发 159758989
