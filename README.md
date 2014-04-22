@@ -10,7 +10,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 ####聚合&&周报订阅
-|名称 |订阅地址 | 介绍 | 
+|名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
@@ -180,4 +180,4 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ##关于
 
 
-本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
+本 repo 会不断更新，感谢推荐和分享新资源的朋友，同时也感谢那些互联网的默默奉献者。
