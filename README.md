@@ -156,6 +156,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
+| [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/) | 携程网 |   UED| ★★★☆☆|携程UED,携程前端开发团队,UED,Javascript,重构,ux|#|
+| [百度FEX](http://fex.baidu.com/) | 百度 |   FEX| ★★★★☆| 百度前端团队Blog,关注前端技术，还更重视全端及全栈的能力。|#|
+
 
 
 ##书籍
@@ -170,6 +173,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
+|[JavaScript语言精髓](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
 
 ##QQ交流群
 1. JS-前端开发 159758989
