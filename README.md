@@ -26,6 +26,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
 |中文推送|||
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
+|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 
 
 
@@ -64,6 +65,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 |[hakim](http://hakim.se/)|★★★★★|★★★★★| HAKIM EL HATTAB|ccs3,javascript|
+|[DailyJS](http://dailyjs.com/) | ★★★★★ | ★★★★★ | # | javascript |
 
 #####活跃微博
 |ID |公司 | 简介 |
@@ -109,6 +111,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
 |qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
+| 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 |
 
 ####一些社区
 
