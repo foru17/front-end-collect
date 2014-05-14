@@ -60,7 +60,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
-|[Nicholas C. Zakas](http://www.nczonline.net/)|★★★★★|★★★★★| ncz |html5,ccs3,javascript|
+|[NCZOnline](http://www.nczonline.net/)|★★★★★|★★★★★| Nicholas C. Zakas |html5,ccs3,javascript|
 
 #####活跃微博
 |ID |公司 | 简介 |
