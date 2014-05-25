@@ -182,6 +182,21 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 着重于话题质量以问题驱动，有问题有话题，无问题可以适当交流职业困惑或技术相关行业趣闻方面。
 
+##前端share图书馆
+这是一起前端类的实体书籍传阅活动，提供免费借阅，邮费倒负。目的是：资源有效利用，互利共赢。
+####豪情贡献
+0. [javascript权威指南 第五版](http://book.douban.com/subject/2228378/) (已借)
+1. [javascript高级程序设计 第二版](http://book.douban.com/subject/4886879/) (已借)
+2. [javascript捷径教程](http://book.douban.com/subject/3413807/)
+3. [测试驱动的javascript](http://book.douban.com/subject/10483528/)
+4. [深入浅出javascript](http://book.douban.com/subject/3006856/)
+5. [javascript设计模式](http://book.douban.com/subject/3329540/) (已借)
+6. [精通javascript](http://book.douban.com/subject/3007076/)
+7. [ppk谈javascript](http://book.douban.com/subject/3022779/)
+8. [javascript启示录](http://book.douban.com/subject/25837367/)
+
+####欢迎提供实体书借阅
+
 
 ##关于
 
