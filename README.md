@@ -27,6 +27,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |中文推送|||
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
+|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 
 
 
@@ -112,6 +113,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
 | 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
+|汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
 
 ####一些社区
 
@@ -121,6 +123,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
+|前端乱炖|http://www.html-js.com/|国内前端技术社区|
 
 
 #####企业官方博客
@@ -139,6 +142,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
+|[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
 
 
 ##书籍
