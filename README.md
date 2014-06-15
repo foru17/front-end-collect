@@ -157,8 +157,13 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
+|[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
+|[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
 
-
+####线上的一些翻译版好书
+|书名|地址|作者|译者|介绍|
+|----|----|----|----|
+|JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
 
 ##关于
 ======
