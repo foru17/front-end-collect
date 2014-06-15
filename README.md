@@ -161,8 +161,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
 
 ####线上的一些翻译版好书
+
 |书名|地址|作者|译者|介绍|
-|----|----|----|----|
+|----|----|----|----|----|
 |JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
 
 ##关于
