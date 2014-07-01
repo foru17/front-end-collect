@@ -10,7 +10,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 ####聚合&&周报订阅
-|名称 |订阅地址 | 介绍 | 
+|名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
@@ -159,7 +159,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 |[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
 |[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
-
+|[CSS开发王](http://book.douban.com/subject/3137282/)|张亚飞|RMB 49.00|电子工业出版社|适合有一定基础后CSS进阶用|
 ####线上的一些翻译版好书
 
 |书名|地址|作者|译者|介绍|
