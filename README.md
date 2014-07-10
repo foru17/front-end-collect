@@ -124,6 +124,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
 |前端乱炖|http://www.html-js.com/|国内前端技术社区|
+| DIV.IO | http://div.io/ | 国内前端技术社区 |
 
 
 #####企业官方博客
@@ -165,6 +166,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |书名|地址|作者|译者|介绍|
 |----|----|----|----|----|
 |JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
+| Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
 
 ##关于
 ======
