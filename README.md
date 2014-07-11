@@ -128,7 +128,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |米随随|[米随随](http://s5s5.me/)|#|#|#|#|腾讯ISUX 一牛|
 |飘飘|[飘飘](http://pufen.net/)|#|#|#|#|腾讯一牛|
 |Along|[Along's Blog](http://jinlong.github.io/)|[@newwave](http://weibo.com/newwave)|#|#|#|Opera 欧朋一牛|
-|安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|腾讯一牛|
+|安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 
 
 ####一些社区
