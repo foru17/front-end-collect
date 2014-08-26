@@ -176,14 +176,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 |[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
 
-##QQ交流群
-1. JS-前端开发 159758989
-
-禁止闲聊，鼓励提问与资源分享。
-
-着重于话题质量以问题驱动，有问题有话题。
 
 ##[大漠](http://www.w3cplus.com)分享
+
 ###性能优化优秀教程
 
 - [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
