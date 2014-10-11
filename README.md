@@ -42,6 +42,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
+|[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
 
 
