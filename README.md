@@ -24,6 +24,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
+|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
 |中文推送|||
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
