@@ -11,6 +11,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 #### [前端收集图谱](http://get-set.cn/front-end-chart/)
 
 - clone https://github.com/hjzheng/front-end-collect
+- cd front-end-collect 
+- bower install
 - 放入你喜欢的web容器,访问index.html即可
 - 你也直接可以访问: http://get-set.cn/front-end-chart/
 
