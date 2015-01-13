@@ -14,6 +14,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - 放入你喜欢的web容器,访问index.html即可
 - 你也直接可以访问: http://get-set.cn/front-end-chart/
 
+![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
 
 #### 聚合&&周报订阅
 |名称 |订阅地址 | 介绍 | 
