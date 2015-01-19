@@ -1,7 +1,7 @@
 前端收集
 =================
 
-在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新。以下各排名不分先后顺序。
+在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新，以下各排名不分先后顺序。
 
 自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
 https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
@@ -137,6 +137,10 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |名称 |地址 |介绍 |
 |-----|-----|------|
 |V2EX|http://v2ex.com/|小众活跃社区|
+|知乎|http://www.zhihu.com/|综合问答社区|
+|前端乱炖|http://www.html-js.com/|专业的前端知识平台|
+|segmentfault|http://segmentfault.com/|综合问答社区|
+|果壳问答|http://www.guokr.com/ask/pending/|综合问答社区|
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
@@ -177,6 +181,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 |[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
 
+##捐赠目录
+- [【张鑫旭】的个人博客](http://www.zhangxinxu.com/wordpress/2014/12/css3-animation-dotting-loading/)
+- [【艾伦】- 博客园 - jQuery源码分析系列](http://www.cnblogs.com/aaronjs/p/3279314.html)
+- [【大漠】 W3CPLUS是一个前端爱好者的家园](http://www.w3cplus.com/w3cplus-2014.html)
+- [【司徒正美】 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/09/15/1566722.html)
+- [【Hemin】jQuery API 中文手册](http://hemin.cn/jq/)
+- [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
+- [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
 
 ##[大漠](http://www.w3cplus.com)分享
 
