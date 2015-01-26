@@ -51,7 +51,7 @@ angular.module('frontEnd', [])
 
       function zoom () {
          //TODO: set translate range
-        svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")" );
+         g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")" );
       }
 
       var update = function() {
