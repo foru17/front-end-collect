@@ -8,9 +8,19 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ====
 
+#### [前端收集图谱](http://get-set.cn/front-end-chart/)
 
 ####聚合&&周报订阅
 |名称 |订阅地址 | 介绍 |
+=======
+- clone https://github.com/hjzheng/front-end-collect
+- cd front-end-collect 
+- bower install
+- 放入你喜欢的web容器,访问index.html即可
+- 你也直接可以访问: http://get-set.cn/front-end-chart/
+
+![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
+
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
@@ -27,11 +37,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-####专业博客
+#### 专业博客
 
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
 
-######中文博客
+###### 中文博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
@@ -43,11 +53,12 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
+|[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -62,8 +73,10 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 |[NCZOnline](http://www.nczonline.net/)|★★★★★|★★★★★| Nicholas C. Zakas |html5,ccs3,javascript|
+|[HTML5 Rocks](http://www.html5rocks.com/en/)|★★★★★|★★★★★| # |html5权威网站|
+|[A List Apart](http://alistapart.com/)|★★★★★|★★★★★| # |可以改变世界的文章|
 
-#####活跃微博
+##### 活跃微博
 |ID |公司 | 简介 |
 |-----|------|------|
 |[@w3c中国](http://weibo.com/w3cchina)|#|万维网联盟中国办事处官方微博|
@@ -73,11 +86,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[@developerWorks](http://weibo.com/developerworks)|#|#|
 
 
-####开发者博客
+#### 开发者博客
 
 微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
 
-######国内开发者
+###### 国内开发者
 
 国内开发者一块欢迎大家 `Fork`提交推荐，最好能推荐一些在前端界较活跃的的开发者。
 
@@ -132,7 +145,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 
 
-####一些社区
+#### 一些社区
 
 |名称 |地址 |介绍 |
 |-----|-----|------|
@@ -146,7 +159,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Code Wall|https://coderwall.com/|国外技术社区|
 
 
-#####企业官方博客
+##### 企业官方博客
 
 在开头我的 Feedly 订阅 opml 文件里比较全面。
 
@@ -167,7 +180,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-##书籍
+## 书籍
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
@@ -189,6 +202,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [【Hemin】jQuery API 中文手册](http://hemin.cn/jq/)
 - [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
 - [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
+- [芒果云 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
 
 ##[大漠](http://www.w3cplus.com)分享
 
@@ -241,8 +255,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
 - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 
-
-##关于
-
+## 关于
 
 本 repo 会不断更新，感谢推荐和分享新资源的朋友。
