@@ -19,7 +19,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
 
 #### 聚合&&周报订阅
-
+|名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
