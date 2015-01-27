@@ -9,7 +9,7 @@ angular.module('frontEnd', [])
   }])
   .controller('frontEndCtrl', ['$scope', '$window', 'data',
     function($scope, $window, data) {
-      $scope.type = 'Dendrogram';
+      $scope.type = 'cluster';
       $scope.frontEndData = '';
 
       $window.addEventListener('resize', function() {
@@ -31,10 +31,16 @@ angular.module('frontEnd', [])
 
       var radius = 960 / 2;
 
+      var tree = d3.layout.tree()
+           .size([radius*2, radius*2]);
+
+      var diagonalTree = d3.svg.diagonal()
+           .projection(function(d) { return [d.y, d.x]; });
+
       var cluster = d3.layout.cluster()
         .size([360, radius - 120]);
 
-      var diagonal = d3.svg.diagonal.radial()
+      var diagonalCluster = d3.svg.diagonal.radial()
         .projection(function(d) {
           return [d.y, d.x / 180 * Math.PI];
         });
@@ -60,9 +66,23 @@ angular.module('frontEnd', [])
         var data = $scope.frontEndData;
 
         var nodes = cluster.nodes(data);
+        var links = cluster.links(nodes);
+        var diagonal = diagonalCluster;
+
+        g.remove();
+
+        g = svg.append("g")
+           .attr("transform", "translate(" + radius + "," + radius + ")");
+
+        if($scope.type == 'tree') {
+            nodes = tree.nodes(data);
+            links = tree.links(nodes);
+            diagonal = diagonalTree;
+            g.attr("transform", "translate(" + 160 + "," + 0 + ")");
+        }
 
         var link = g.selectAll("path.link")
-          .data(cluster.links(nodes))
+          .data(links)
           .enter().append("path")
           .attr("class", "link")
           .attr("d", diagonal);
@@ -72,7 +92,12 @@ angular.module('frontEnd', [])
           .enter().append("g")
           .attr("class", "node")
           .attr("transform", function(d) {
-            return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")";
+            if ($scope.type == 'tree') {
+                return "translate(" + d.y + "," + d.x + ")";
+            } else {
+                return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")";
+            }
+
           });
 
         node.append("circle")
@@ -80,11 +105,26 @@ angular.module('frontEnd', [])
 
         node.append("text")
           .attr("dy", ".31em")
+          .attr("dx", function(d) {
+            if($scope.type == 'tree') {
+                return d.children ? -8 : 8;
+            } else {
+                return 0;
+            }
+          })
           .attr("text-anchor", function(d) {
-            return d.x < 180 ? "start" : "end";
+            if($scope.type == 'tree') {
+                return d.children ? "end" : "start";
+            } else {
+                return d.x < 180 ? "start" : "end";
+            }
           })
           .attr("transform", function(d) {
-            return d.x < 180 ? "translate(8)" : "rotate(180)translate(-8)";
+            if ($scope.type == 'tree') {
+                return "";
+            } else {
+                return d.x < 180 ? "translate(8)" : "rotate(180)translate(-8)";
+            }
           })
           .text(function(d) {
             return d.name;
@@ -99,7 +139,7 @@ angular.module('frontEnd', [])
               //Update the tooltip position and value
               d3.select("#tooltip")
                 .style("left", 10 + "px")
-                .style("top", 10 + "px")    
+                .style("top", 20 + "px")
                 .select("#desc")
                 .text(d.description)
                 
@@ -115,6 +155,7 @@ angular.module('frontEnd', [])
       };
 
       $scope.$watch('frontEndData', update);
+      $scope.$watch('type', update);
 
     };
     return {
