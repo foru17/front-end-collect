@@ -10,9 +10,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 #### [前端收集图谱](http://get-set.cn/front-end-chart/)
 
-####聚合&&周报订阅
-|名称 |订阅地址 | 介绍 |
-=======
 - clone https://github.com/hjzheng/front-end-collect
 - cd front-end-collect 
 - bower install
@@ -20,6 +17,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - 你也直接可以访问: http://get-set.cn/front-end-chart/
 
 ![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
+
+#### 聚合&&周报订阅
 
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
@@ -202,7 +201,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [【Hemin】jQuery API 中文手册](http://hemin.cn/jq/)
 - [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
 - [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
-- [芒果云 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
+- [【芒果云】 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
 
 ##[大漠](http://www.w3cplus.com)分享
 
