@@ -11,6 +11,7 @@ angular.module('frontEnd', [])
     function($scope, $window, data) {
       $scope.type = 'cluster';
       $scope.frontEndData = '';
+      $scope.rotate = 0;
 
       $window.addEventListener('resize', function() {
         $scope.$broadcast('windowResize');
@@ -25,7 +26,7 @@ angular.module('frontEnd', [])
           }
         });
     }
-  ]).directive('frontEndChart', ['data','$window', function(data, $window) {
+  ]).directive('frontEndChart', ['data','$window', '$timeout', function(data, $window, $timeout) {
 
     var link = function($scope, $el, $attrs) {
 
@@ -57,7 +58,24 @@ angular.module('frontEnd', [])
 
       function zoom () {
          //TODO: set translate range
+         //TODO: after rotate, we need add rotate for zoom translate
          g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")" );
+      }
+
+      var timeout;
+
+      function rotate(oldValue, newValue){
+          if (timeout) $timeout.cancel(timeout);
+          timeout = $timeout(function() {
+              var rotate = $scope.rotate*6;
+              var trans = g.attr("transform");
+              if(trans.indexOf("rotate") !== -1){
+                  trans = trans.replace(/rotate\([^()]*\)/, "rotate(" + rotate + ")");
+              }else{
+                  trans += "rotate(" + rotate + ")";
+              }
+              g.transition().duration(600).attr("transform", trans);
+          }, 350);
       }
 
       var update = function() {
@@ -156,6 +174,7 @@ angular.module('frontEnd', [])
 
       $scope.$watch('frontEndData', update);
       $scope.$watch('type', update);
+      $scope.$watch('rotate', rotate);
 
     };
     return {
