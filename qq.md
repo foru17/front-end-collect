@@ -1,19 +1,14 @@
 # QQ交流群规
-[在线地址](http://t.cn/RZHZMRx) `http://t.cn/RZHZMRx`
+[在线地址](http://t.cn/Rw2qmAS) `http://t.cn/Rw2qmAS`
 
 ---
 
 
 ###前言
 1. 宗旨：高质量前端技术交流群，原则上：白天上班时间禁止闲聊，业余时间话题可以稍为宽松。
-2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速的溶入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。此群规由：豪情起草，艾伦审核，大熊校定，小V，北川，未然等多次参与修改，是整个管理团队思想的结晶或积累。
+2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速的溶入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。此群规是原来
 2. 此群规是待运行版，公布出之后默认是大伙已经阅读并认可通过，如有违反，可能采取相应的措施。我们的目的侧重于引导，并不是把谁要T出去，我们希望自此群规出台之后不要有一个人是被T出去的。
-3. 此群只是群主建立的以jQuery为核心的技术交流平台，群规也是引导大于惩罚，我们是前端相关从业人士，注重用户感知或行为约定，所以引导为辅，自觉为主。另外氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为有你的存在而感到骄傲，后天因为我们回忆中有你的身影而感到难忘。
-
-本群是围绕[【Aaron】 - 博客园 - jQuery源码分析系列](http://www.cnblogs.com/aaronjs/p/3279314.html)为核心，群内大都认识或加入都来自于这个网站。另外Aaron正在力推两个教程系列希望大家支持：
-
-- [jQuery源码解析（架构与依赖模块) 64课时](http://www.imooc.com/learn/172)
-- [jQuery源码解析（DOM与核心模块）更新中...](http://www.imooc.com/learn/222)
+3. 此群规也是引导大于惩罚，我们是前端相关从业人士，注重用户感知或行为约定，所以引导为辅，自觉为主。另外氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为有你的存在而感到骄傲，后天因为我们回忆中有你的身影而感到难忘。
 
 ###一. 如何提问:
 1. 提问请提供重现问题场景的demo文件或在线url地址。(必须是完整的静态资源包，换个环境之后能够完整重现所说bug，如果团队对代码有保密要求，请找其它解决办法，不建议继续提问)。
@@ -69,18 +64,22 @@
 ###六. API:
 
 1. jQuery
-- [jQuery API 中文文档](http://jquery.bootcss.com/)
-- [hemin 在线版](http://hemin.cn/jq/)
-- [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
-- [css88 jqui api](http://www.css88.com/jquery-ui-api/)
-- [devdocs](http://devdocs.io/)
-- [jqschool](http://api.jq-school.com/)
-- [学习jquery](http://learn.jquery.com/)
+
+* [jQuery API 中文文档](http://jquery.bootcss.com/)
+* [hemin 在线版](http://hemin.cn/jq/)
+* [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
+* [css88 jqui api](http://www.css88.com/jquery-ui-api/)
+* [devdocs](http://devdocs.io/)
+* [jqschool](http://api.jq-school.com/)
+* [学习jquery](http://learn.jquery.com/)
+
 2. Ecmascript
+
 - [阮一峰 es6](http://es6.ruanyifeng.com/)
 - [阮一峰 Javascript](http://javascript.ruanyifeng.com/)
 - [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
 - [es5](http://es5.github.io/)
+
 3. Js template
 - [artTemplate](https://github.com/aui/artTemplate)
 - [tomdjs](https://github.com/aui/tmodjs/blob/master/README.md)
@@ -185,10 +184,3 @@
 - [百度前端规范](http://isobar-idev.github.io/code-standards/)
 - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
 - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
-
-###八. 本群高手(作品展示，且没有明显竞争意向的):
-1. [大熊](http://www.cnblogs.com/bigbearbb/)
-2. [叶小钗](http://www.cnblogs.com/yexiaochai/)
-3. [小V](http://www.cnblogs.com/vajoy/)
-4. 期待你的加入...
-
