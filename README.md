@@ -10,6 +10,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 #### [前端收集图谱](http://get-set.cn/front-end-chart/)
 
+此部分为[@jikeytang ](https://github.com/jikeytang)贡献
+
 - clone https://github.com/hjzheng/front-end-collect
 - cd front-end-collect 
 - bower install
@@ -22,6 +24,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 |名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
+|**英文推送**|||
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
@@ -33,12 +36,13 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
+|Css Animations|http://cssanimation.rocks/|关于CSS动画的订阅
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
-|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
-|中文推送|||
+|**中文推送**|||
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
+|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
 
 
 
@@ -204,67 +208,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
 |[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
+|[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
+|[CSS开发王](http://book.douban.com/subject/3137282/)|张亚飞|RMB 49.00|电子工业出版社|适合有一定基础后CSS进阶用|
+|[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
 
-##捐赠目录
-- [【张鑫旭】的个人博客](http://www.zhangxinxu.com/wordpress/2014/12/css3-animation-dotting-loading/)
-- [【艾伦】- 博客园 - jQuery源码分析系列](http://www.cnblogs.com/aaronjs/p/3279314.html)
-- [【大漠】 W3CPLUS是一个前端爱好者的家园](http://www.w3cplus.com/w3cplus-2014.html)
-- [【司徒正美】 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/09/15/1566722.html)
-- [【Hemin】jQuery API 中文手册](http://hemin.cn/jq/)
-- [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
-- [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
-- [【芒果云】 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
 
-##[大漠](http://www.w3cplus.com)分享
-
-###性能优化优秀教程
-
-- [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
-- [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
-- [复杂应用的 CSS 性能分析和优化建议](http://www.orzpoint.com/profiling-css-and-optimization-notes/)
-- [张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)
-- [前端性能监控总结](http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html)
-- [网站性能优化之CSS无图片技术](http://udc.weibo.com/2013/05/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8Bcss%E6%97%A0%E5%9B%BE%E7%89%87%E6%8A%80%E6%9C%AF/)
-- [web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)
-- [前端技术：网站性能优化之CSS无图片技术](http://my.eoe.cn/tuwandou/archive/4544.html)
-- [浏览器的加载与页面性能优化](http://www.baiduux.com/blog/2011/02/15/browser-loading/)
-- [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
-- [Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
-- [html优化](http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/)
-- [99css——性能](http://www.99css.com/archives/tag/%E6%80%A7%E8%83%BD)
-- [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
-- [YSLOW中文介绍](http://www.cnblogs.com/yslow/)
-- [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
-- [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
-- [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
-- [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
-- [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
-- [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
-- [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/)
-- [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
-- [加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)
-- [前端性能的测试与优化](http://mzhou.me/article/95310/)
-- [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/)
-- [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt/)
-- [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
-- [网站性能优化工具大全](http://www.qianduan.net/website-performance-optimization-tool.html)
-- [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html/)
-- [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css/)
-- [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
-- [AlloyTeam——前端优化](http://www.alloyteam.com/category/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
-- [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
-- [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
-- [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
-- [前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
-- [HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369/)
-- [Yslow](http://uicss.cn/yslow/#more-12319)
-- [Essential Web Performance Metrics — A Primer, Part 1](http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1/)
-- [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/)
-- [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
-- [Improving Site Performance](http://joelglovier.com/improving-site-performance/)
-- [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
-- [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
-- [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 
 =======
 
@@ -274,11 +222,10 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |----|----|----|----|----|
 |JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
 | Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
-|[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
-|[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
-|[CSS开发王](http://book.douban.com/subject/3137282/)|张亚飞|RMB 49.00|电子工业出版社|适合有一定基础后CSS进阶用|
+
 
 ##关于
 ======
 
 本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
+
