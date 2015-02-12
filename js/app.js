@@ -47,8 +47,8 @@ angular.module('frontEnd', [])
         });
 
       var svg = d3.select($el[0]).append("svg")
-        .attr("width", radius * 2)
-        .attr("height", radius * 2)
+        .attr("width", document.documentElement.clientWidth)
+        .attr("height", document.documentElement.clientHeight - 30)
         .call(
           d3.behavior.zoom().scaleExtent([0.6, 3]).on("zoom", zoom)
         );
