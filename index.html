@@ -28,7 +28,7 @@
                  <input type="radio" ng-model="type" value="cluster"> Cluster
              </label>
              <label class="radio-inline">
-                 <input type="range" ng-model="rotate" min="0" max="60" ng-disabled="type === 'true'">
+                 <input type="range" ng-model="rotate" min="0" max="60" ng-disabled="type !== 'cluster'">
              </label>
              <label class="radio-inline">
                  <span>{{ rotate * 6 }}</span>
