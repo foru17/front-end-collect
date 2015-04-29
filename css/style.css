@@ -69,3 +69,9 @@
 a:hover {
   text-decoration: none;
 }
+
+/*fix IE10, IE11 type=range can not display in bootstrap style*/
+input[type=range] {
+    width: 200px\0;
+    display: inline;
+}
