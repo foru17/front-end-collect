@@ -8,7 +8,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ====
 
-#### [前端收集图谱](http://get-set.cn/front-end-chart/)
+#### [前端收集图谱](http://get-set.cn/front-end-collect/)
 
 此部分为[@jikeytang ](https://github.com/jikeytang)贡献
 
@@ -16,7 +16,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - cd front-end-collect 
 - bower install
 - 放入你喜欢的web容器,访问index.html即可
-- 你也直接可以访问: http://get-set.cn/front-end-chart/
+- 你也直接可以访问: http://get-set.cn/front-end-collect/
+- 支持Chrome, Firefox and IE10&11以上浏览器
 
 ![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
 

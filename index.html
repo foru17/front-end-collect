@@ -20,12 +20,18 @@
      </h2>
 
      <div class="row">
-         <form role="form" class="col-sm-3">
+         <form role="form" class="col-sm-6">
              <label class="radio-inline">
                  <input type="radio" ng-model="type" value="tree"> Tree
              </label>
              <label class="radio-inline">
                  <input type="radio" ng-model="type" value="cluster"> Cluster
+             </label>
+             <label class="radio-inline">
+                 <input type="range" ng-model="rotate" min="0" max="60" ng-disabled="type !== 'cluster'">
+             </label>
+             <label class="radio-inline">
+                 <span>{{ rotate * 6 }}</span>
              </label>
          </form>
      </div>
