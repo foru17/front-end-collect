@@ -111,7 +111,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |阮一峰|[阮一峰博客](http://www.ruanyifeng.com/blog/)|[@ruanyf](http://weibo.com/ruanyf)|#|[@ruanyf](https://twitter.com/ruanyf)|上海金融学院国际金融学院| 教师，博客写作人，翻译人，《黑客与画家》的译者|
 |老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|摩根大通（香港）| 资深码农|
 |玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
-| kejun |http://hikejun.com/|[@kejunz](http://weibo.com/kejunz)|#|[@kejunz](https://github.com/kejun)| 豆瓣|前端大神|
+| kejun |http://hikejun.com/|[@kejunz](http://weibo.com/kejunz)|[@kejunz](https://github.com/kejun)|#| 豆瓣|前端大神|
 |寒冬winter|[winter-cn](http://winter-cn.cnblogs.com/)|[@寒冬winter](http://weibo.com/wintercn)|#|#|#|#|
 |左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|[@haoel](https://twitter.com/haoel)|淘宝|#|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
