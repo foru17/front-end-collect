@@ -186,7 +186,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 | SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[alloyteam](http://weibo.com/alloyteam)|
 | [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |#|
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
+| [人人网FED Team](http://fed.renren.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
 | [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
