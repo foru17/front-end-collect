@@ -96,6 +96,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
 |[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
 |[@developerWorks](http://weibo.com/developerworks)|#|#|
+|[@稀土圈](http://weibo.com/xitucircle)|#|分享一些技术文章和Github项目|
 
 
 #### 开发者博客
