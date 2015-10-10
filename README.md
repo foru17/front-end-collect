@@ -174,6 +174,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Code Wall|https://coderwall.com/|国外技术社区|
 |前端乱炖|http://www.html-js.com/|国内前端技术社区|
 | DIV.IO | http://div.io/ | 国内前端技术社区 |
+| w3ctech | http://www.w3ctech.com/ | 国内前端技术社区，常有一些线下活动发布 |
 
 
 ##### 企业官方博客
