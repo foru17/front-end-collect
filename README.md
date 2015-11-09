@@ -13,7 +13,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 此部分为[@jikeytang ](https://github.com/jikeytang)贡献
 
 - clone https://github.com/hjzheng/front-end-collect
-- cd front-end-collect 
+- cd front-end-collect
 - bower install
 - 放入你喜欢的web容器,访问index.html即可
 - 你也直接可以访问: http://get-set.cn/front-end-collect/
@@ -40,9 +40,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Css Animations|http://cssanimation.rocks/|关于CSS动画的订阅
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
 |**中文推送**|||
+|稀土:掘金|http://gold.xitu.io/|国内十分用心的开发者技术分享、交流平台|
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
+| 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
 |前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
 
 
@@ -91,13 +93,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ##### 活跃微博
 |ID |公司 | 简介 |
 |-----|------|------|
+|[@稀土圈](http://weibo.com/xitucircle)|#|强烈推荐，分享一些技术文章和Github项目|
 |[@w3c中国](http://weibo.com/w3cchina)|#|万维网联盟中国办事处官方微博|
 |[@TheFrontEnd](http://weibo.com/javascriptdev)|#|JavaScript技术资讯、新闻、教程、深度文章。|
 |[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
 |[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
-|[@developerWorks](http://weibo.com/developerworks)|#|#|
-|[@稀土圈](http://weibo.com/xitucircle)|#|分享一些技术文章和Github项目|
-
 
 #### 开发者博客
 
@@ -132,7 +132,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
 |LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
 |qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
-|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
+|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)||打酱油的|
 |周爱民|[aimingoo专栏](http://blog.csdn.net/aimingoo/)|#|#|#|支付宝|JavaScript语言精髓与编程实践作者|
 |hax|[hax的技术部落格](http://hax.iteye.com/)|#|#|#|#|前端大牛|
 |三生石上|[三生石上](http://www.cnblogs.com/sanshi)|#|#|#|#|js秘密花园译者|
@@ -144,7 +144,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |typeof|[typeof](http://typeof.net/)|#|#|#|#|又一牛|
 |Gray Zhang|[Gray Zhang](http://www.cnblogs.com/GrayZhang)|#|#|#|#|百度一牛|
 |李松峰|[为之漫笔](http://www.cn-cuckoo.com)|#|#|#|#|高程2等书的译者|
-|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|百姓网一牛|
+|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|饿了么前端Leader|
 |vilic|[vilic](http://vilic.info/)|#|#|#|#|年轻一牛|
 |彬Go|[彬Go](http://blog.bingo929.com/)|#|#|#|#|人人网一牛|
 |PuterJam|[PuterJam's Blog](http://www.pjhome.net)|#|#|#|#|腾讯一牛|
@@ -158,6 +158,9 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 | 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
 |汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
+|屈光宇
+ |[Jerry Qu的小站](https://imququ.com/)|[屈光宇
+ ](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
 
 
 ####一些社区
@@ -231,4 +234,3 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ======
 
 本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
-
