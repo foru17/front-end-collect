@@ -158,9 +158,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 | 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
 |汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
-|屈光宇
- |[Jerry Qu的小站](https://imququ.com/)|[屈光宇
- ](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
+|屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
 
 
 ####一些社区
