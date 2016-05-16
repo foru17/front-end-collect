@@ -175,7 +175,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
-|前端乱炖|http://www.html-js.com/|国内前端技术社区|
 | DIV.IO | http://div.io/ | 国内前端技术社区 |
 | w3ctech | http://www.w3ctech.com/ | 国内前端技术社区，常有一些线下活动发布 |
 
