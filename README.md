@@ -98,6 +98,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[@TheFrontEnd](http://weibo.com/javascriptdev)|#|JavaScript技术资讯、新闻、教程、深度文章。|
 |[@前端快爆](http://weibo.com/fekb)|阿里巴巴|有HTML5、CSS3、JS |
 |[@HTML5中国](http://e.weibo.com/html5cn)|#|中国www.html5cn.org官方微博|
+|[@GitHubDaily](http://e.weibo.com/githubdaily)|#|专注于分享 GitHub 最新的优质开源项目:sparkles:|
 
 #### 开发者博客
 
