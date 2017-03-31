@@ -32,7 +32,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
 |UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
 |Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
-|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
+|RESPONSIVE DESIGN NEWSLETTER|http://re
+sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
 |Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
@@ -71,6 +72,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 ######国外博客
+
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -109,6 +111,15 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
+|小胡子哥|[barretlee](http://www.barretlee.com/)|[@Barret李靖](http://weibo.com/173248656)|[@barretlee](https://github.com/barretlee)|#|#|阿里巴巴|
+|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|饿了么前端|
+|屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端,HTTP,Node。js|
+|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@guo-yu](https://github.com/guo-yu)|[@turingou](https://twitter.com/turingou)|今日头条 | Node.js|
+| hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
+| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 微信 | 前端|
+| 张鑫旭 |[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)| 阅文(腾讯文学) YUED |前端开发|
+|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|阅文(腾讯文学) YUED |
+|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|腾讯 CDC | 前端 |
 |阮一峰|[阮一峰博客](http://www.ruanyifeng.com/blog/)|[@ruanyf](http://weibo.com/ruanyf)|#|[@ruanyf](https://twitter.com/ruanyf)|上海金融学院国际金融学院| 教师，博客写作人，翻译人，《黑客与画家》的译者|
 |老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|摩根大通（香港）| 资深码农|
 |玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
@@ -119,46 +130,22 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|[JacksonTian](https://github.com/JacksonTian)|#|阿里巴巴|《深入浅出Node.js》作者,大牛|
 |Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
-|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
 |勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
 |大猫| [意淫笔记](http://bigc.at)|[@daemao](http://weibo.com/daemao)|[@Damao](https://github.com/Damao)|[@13igcat](https://twitter.com/13igcat)|腾讯 |[知乎](http://www.zhihu.com/people/13igcat)|
-| hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
 | kejun |http://hikejun.com/|[#](http://weibo.com/kejun)|[#](http://twittercom/kejun)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
-| 张鑫旭 |[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
 | lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
-| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
-|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
-|qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
-|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)||打酱油的|
+|qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|老虎证券 |吐槽清理大师开发者|
 |周爱民|[aimingoo专栏](http://blog.csdn.net/aimingoo/)|#|#|#|支付宝|JavaScript语言精髓与编程实践作者|
-|hax|[hax的技术部落格](http://hax.iteye.com/)|#|#|#|#|前端大牛|
-|三生石上|[三生石上](http://www.cnblogs.com/sanshi)|#|#|#|#|js秘密花园译者|
-|司徒正美|[Ruby's Louvre](http://www.cnblogs.com/rubylouvre)|#|#|#|#|前端开发|
-|叶小钗|[叶小钗](http://www.cnblogs.com/yexiaochai)|#|#|#|#|前端开发|
-|聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|#|#|#|百度移动云|前端开发|
-|当耐特|[iamzhanglei](http://www.cnblogs.com/iamzhanglei/)|#|#|#|#|HTML5实验室作者|
-|教主|[_frank](http://www.cnblogs.com/_franky)|#|#|#|#|又一牛|
-|typeof|[typeof](http://typeof.net/)|#|#|#|#|又一牛|
-|Gray Zhang|[Gray Zhang](http://www.cnblogs.com/GrayZhang)|#|#|#|#|百度一牛|
 |李松峰|[为之漫笔](http://www.cn-cuckoo.com)|#|#|#|#|高程2等书的译者|
-|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|饿了么前端Leader|
-|vilic|[vilic](http://vilic.info/)|#|#|#|#|年轻一牛|
-|彬Go|[彬Go](http://blog.bingo929.com/)|#|#|#|#|人人网一牛|
-|PuterJam|[PuterJam's Blog](http://www.pjhome.net)|#|#|#|#|腾讯一牛|
-|css森林|[cssforest](http://www.cssforest.org)|#|#|#|#|前端博客|
 |99css|[99css](http://www.99css.com/)|[@ytzong](http://weibo.com/ytzong)|#|#|#|腾讯一牛|
 |秦歌|[Kaven](http://dancewithnet.com/)|#|[@kavenyan](http://twitter.com/kavenyan)|#|#|js语言精粹译者|
 |linxz|[linxz](http://www.linxz.de/)|#|#|#|#|css那些事儿的作者|
-|米随随|[米随随](http://s5s5.me/)|#|#|#|#|腾讯ISUX 一牛|
-|飘飘|[飘飘](http://pufen.net/)|#|#|#|#|腾讯一牛|
 |Along|[Along's Blog](http://jinlong.github.io/)|[@newwave](http://weibo.com/newwave)|#|#|#|Opera 欧朋一牛|
 |安记|[cssha](http://www.cssha.com/)|[@hanan321](http://weibo.com/hanan321)|[hanan198501](https://github.com/hanan198501)|#|#|去哪网一牛|
 | 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
-|汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
-|屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
 
 
 ####一些社区
@@ -166,6 +153,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |名称 |地址 |介绍 |
 |-----|-----|------|
 |V2EX|http://v2ex.com/|小众活跃社区|
+|稀土掘进|https://juejin.im/|程序员同性交友社区|
 |知乎|http://www.zhihu.com/|综合问答社区|
 |前端乱炖|http://www.html-js.com/|专业的前端知识平台|
 |segmentfault|http://segmentfault.com/|综合问答社区|
@@ -188,7 +176,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 | SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[alloyteam](http://weibo.com/alloyteam)|
 | [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |#|
 | [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://fed.renren.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
+| [凹凸实验室](https://aotu.io/) | 京东 |   FED| ★★★★★|简凹凸实验室(Aotu.io，英文简称O2) 始建于2015年10月，是一个年轻基情的技术团队。 |#|
 | [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
@@ -219,7 +207,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 =======
 
-####线上的一些翻译版好书
+####线上文档参考
 
 |书名|地址|作者|译者|介绍|
 |----|----|----|----|----|
@@ -229,5 +217,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ##关于
 ======
+本 repo 会不断更新，感谢推荐和分享新资源的朋友。
 
-本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
+
