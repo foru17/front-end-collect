@@ -6,7 +6,6 @@
 自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
 https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
-====
 
 #### [前端收集图谱](http://get-set.cn/front-end-collect/)
 
@@ -50,11 +49,11 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 
 
 
-#### 专业博客
+## 专业博客
 
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
 
-###### 中文博客
+#### 中文博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |-----|
 |[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
@@ -71,7 +70,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 
 
 
-######国外博客
+#### 国外博客
 
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
@@ -92,7 +91,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |[hakim](http://hakim.se/)|★★★★★|★★★★★| HAKIM EL HATTAB|ccs3,javascript|
 |[DailyJS](http://dailyjs.com/) | ★★★★★ | ★★★★★ | # | javascript |
 
-##### 活跃微博
+#### 活跃微博
 |ID |公司 | 简介 |
 |-----|------|------|
 |[@稀土圈](http://weibo.com/xitucircle)|#|强烈推荐，分享一些技术文章和Github项目|
@@ -105,7 +104,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 
 微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。
 
-###### 国内开发者
+##### 国内开发者
 
 国内开发者一块欢迎大家 `Fork`提交推荐，最好能推荐一些在前端界较活跃的的开发者。
 
@@ -148,7 +147,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 | 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
 
 
-####一些社区
+#### 一些社区
 
 |名称 |地址 |介绍 |
 |-----|-----|------|
@@ -165,7 +164,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 | w3ctech | http://www.w3ctech.com/ | 国内前端技术社区，常有一些线下活动发布 |
 
 
-##### 企业官方博客
+#### 企业官方博客
 
 在开头我的 Feedly 订阅 opml 文件里比较全面。
 
@@ -186,7 +185,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
 
 
-## 书籍
+#### 书籍
 
 |名称 | 作者 | 价格 | 出版社|简评 |
 | ----- | ----- | ------ |----- |------|
@@ -204,10 +203,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
 
 
-
-=======
-
-####线上文档参考
+#### 线上文档参考
 
 |书名|地址|作者|译者|介绍|
 |----|----|----|----|----|
@@ -215,8 +211,8 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 | Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
 
 
-##关于
-======
+## 关于
+
 本 repo 会不断更新，感谢推荐和分享新资源的朋友。
 
 
