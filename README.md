@@ -45,7 +45,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 | 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
-|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
+|Github Issue Blog Reader|https://gitissue.com|Github Issue 博客聚合平台，每天更新内容，可及时关注阅读|
 
 
 
