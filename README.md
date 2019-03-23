@@ -4,21 +4,18 @@
 在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新，以下各排名不分先后顺序。
 
 自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
-https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
-
+[https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml](https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml)
 
 #### [前端收集图谱](http://get-set.cn/front-end-collect/)
 
 此部分为[@jikeytang ](https://github.com/jikeytang)贡献
 
-- clone https://github.com/hjzheng/front-end-collect
+- clone https://github.com/foru17/front-end-collect
 - cd front-end-collect
 - bower install
 - 放入你喜欢的web容器,访问index.html即可
-- 你也直接可以访问: http://get-set.cn/front-end-collect/
+- 你也直接可以访问: [https://front-end-collect.is26.com](https://front-end-collect.is26.com)
 - 支持Chrome, Firefox and IE10&11以上浏览器
-
-![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
 
 #### 聚合&&周报订阅
 
@@ -31,8 +28,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
 |UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
 |Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
-|RESPONSIVE DESIGN NEWSLETTER|http://re
-sponsivedesignweekly.com/|每周推送一次响应式设计相关|
+|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
 |Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
 |Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
@@ -46,7 +42,6 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 | 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
 |Github Issue Blog Reader|https://gitissue.com|Github Issue 博客聚合平台，每天更新内容，可及时关注阅读|
-
 
 
 ## 专业博客
@@ -67,8 +62,6 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
 |[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
-
-
 
 #### 国外博客
 
@@ -111,15 +104,6 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 
 |ID |博客 |微博 |Github|Twitter| 公司 |关键字|
 |-----|-----|------|------|-----|-----|------|
-|小胡子哥|[barretlee](http://www.barretlee.com/)|[@Barret李靖](http://weibo.com/173248656)|[@barretlee](https://github.com/barretlee)|#|#|阿里巴巴|
-|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|饿了么前端|
-|屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端,HTTP,Node。js|
-|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@guo-yu](https://github.com/guo-yu)|[@turingou](https://twitter.com/turingou)|今日头条 | Node.js|
-| hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
-| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 微信 | 前端|
-| 张鑫旭 |[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)| 阅文(腾讯文学) YUED |前端开发|
-|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|阅文(腾讯文学) YUED |
-|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|腾讯 CDC | 前端 |
 |阮一峰|[阮一峰博客](http://www.ruanyifeng.com/blog/)|[@ruanyf](http://weibo.com/ruanyf)|[@ruanyf](https://github.com/ruanyf)|[@ruanyf](https://twitter.com/ruanyf)|上海金融学院国际金融学院| 教师，博客写作人，翻译人，《黑客与画家》的译者|
 |老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|摩根大通（香港）| 资深码农|
 |玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
@@ -129,9 +113,18 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
 |朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|[JacksonTian](https://github.com/JacksonTian)|#|阿里巴巴|《深入浅出Node.js》作者,大牛|
 |Cat Chen|[陈广琛](https://catchen.me/)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
-|BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
+|BYVoid|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@BYVoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
 |勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
+|小胡子哥|[barretlee](http://www.barretlee.com/)|[@Barret李靖](http://weibo.com/173248656)|[@barretlee](https://github.com/barretlee)|#|#|阿里巴巴|
+|小鱼|[sofish](http://sofish.de/)|[@sofish](http://weibo.com/sofish)|#|#|#|饿了么前端|
+|屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端,HTTP,Node。js|
+|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@guo-yu](https://github.com/guo-yu)|[@turingou](https://twitter.com/turingou)|今日头条 | Node.js|
+| 张鑫旭 |[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)| 阅文(腾讯文学) YUED |前端开发|
+|罗磊|[罗磊的独立博客](https://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/luoleiorg)|阅文(腾讯文学) YUED |
+| hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
+| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 微信 | 前端|
+|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|腾讯 CDC | 前端 |
 |大猫| [意淫笔记](http://bigc.at)|[@daemao](http://weibo.com/daemao)|[@Damao](https://github.com/Damao)|[@13igcat](https://twitter.com/13igcat)|腾讯 |[知乎](http://www.zhihu.com/people/13igcat)|
 | C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
 | kejun |http://hikejun.com/|[#](http://weibo.com/kejun)|[#](http://twittercom/kejun)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
@@ -153,7 +146,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |名称 |地址 |介绍 |
 |-----|-----|------|
 |V2EX|http://v2ex.com/|小众活跃社区|
-|稀土掘进|https://juejin.im/|程序员同性交友社区|
+|稀土掘金|https://juejin.im/|程序员同性交友社区|
 |知乎|http://www.zhihu.com/|综合问答社区|
 |前端乱炖|http://www.html-js.com/|专业的前端知识平台|
 |segmentfault|http://segmentfault.com/|综合问答社区|

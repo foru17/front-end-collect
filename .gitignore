@@ -1,0 +1,6 @@
+node_modules/
+*.swp
+.DS_Store
+upload/
+uploads/
+bower_components/

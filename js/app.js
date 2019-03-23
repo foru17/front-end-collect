@@ -9,7 +9,7 @@ angular.module('frontEnd', [])
   }])
   .controller('frontEndCtrl', ['$scope', '$window', 'data',
     function($scope, $window, data) {
-      $scope.type = 'cluster';
+      $scope.type = 'tree';
       $scope.frontEndData = '';
       $scope.rotate = 0;
 
