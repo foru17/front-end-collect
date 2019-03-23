@@ -128,7 +128,7 @@ sponsivedesignweekly.com/|每周推送一次响应式设计相关|
 |左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|[@haoel](https://twitter.com/haoel)|淘宝|#|
 |fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
 |朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|[JacksonTian](https://github.com/JacksonTian)|#|阿里巴巴|《深入浅出Node.js》作者,大牛|
-|Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
+|Cat Chen|[陈广琛](https://catchen.me/)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
 |勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
